@@ -1,0 +1,22 @@
+{
+  "name": "dzone",
+  "version": "1.0.0",
+  "description": "this is my first bootstrap challange\u001b[D\u001b[D\u001b[e\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.html",
+  "scripts": {
+    "test": "Hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZBistouni/DZone.git"
+  },
+  "keywords": [
+    "DZone"
+  ],
+  "author": "ZBistouni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZBistouni/DZone/issues"
+  },
+  "homepage": "https://github.com/ZBistouni/DZone#readme"
+}
